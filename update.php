@@ -50,8 +50,9 @@
 
 </table>
 <!-- close the form -->
-
-<br><p class="middle"><a href="enter_new_record.php">Know a professor you'd like to recommend? Add them here!</a></p><br>
+<br><ul style="list-style-type:circle;">
+<li><p class="middle"><a href="enter_new_record.php">Know a professor you'd like to recommend? Add them here!</a></p></li>
+<li><p class="middle" id="homelink"><a href="index.html">Return to the home page.</a></p></li></ul><br>
 
 </div> <!-- close container -->
 </body>

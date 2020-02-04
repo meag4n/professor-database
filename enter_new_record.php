@@ -47,7 +47,9 @@
                   </div>
                   </div>
                 </form>
-        <p class="middle"><a href="update.php">See professors others have entered.</a></p>
+      <ul style="list-style-type:circle;">
+        <li><p class="middle"><a href="update.php">See professors others have entered.</a></p>
+        <li><p class="middle" id="homelink"><a href="index.html">Return to the home page.</a></p></li></ul>
 	</div>
 </div>
 <div id="response"></div>
