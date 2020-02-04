@@ -1,0 +1,11 @@
+/* body {
+  margin: 40px 60px 40px 60px;
+} */
+table, th, td {
+  border: 1px solid black;
+  text-align: center;
+  padding: 15px;
+}
+a {
+  text-align: center;
+}
