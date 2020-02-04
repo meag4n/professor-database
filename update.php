@@ -40,8 +40,8 @@
 
 <tr>
   <td><?php echo stripslashes($row['professor']); ?></td>
-  <td><?php echo $row['class']; ?></td>
-  <td><?php echo $row['why']; ?></td>
+  <td><?php echo stripslashes($row['class']); ?></td>
+  <td><?php echo stripslashes($row['why']); ?></td>
 </tr><!-- end of HTML table row -->
 
 <?php endwhile;  ?>

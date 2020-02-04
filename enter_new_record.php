@@ -14,10 +14,9 @@
 
 </head>
 <body>
-<div id="container">
 <h1>Add a professor</h1>
   <br><p>Add a professor whose class you enjoyed and who you would recommend to other students!</p><br>
-<div class="container" id="professors">
+<div class="container-fluid" id="professors">
 	<div class="row">
 		<form role="form" class="contact-form" id="professorform" method="post" action="" autocomplete="off">
                     <div class="row">
@@ -49,9 +48,7 @@
                   </div>
                 </form>
         <p class="middle"><a href="update.php">See professors others have entered.</a></p>
-
 	</div>
-</div>
 </div>
 <div id="response"></div>
 </div> <!-- close container -->

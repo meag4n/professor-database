@@ -1,4 +1,4 @@
-body {
+body, .container {
   font-family: 'Work Sans', sans-serif;
   font-size: 16pt;
   background: #FFEEE9;
